@@ -126,4 +126,5 @@ view: users {
     type: average
     sql: ${age} ;;
   }
+
 }
